@@ -69,6 +69,8 @@ Current firmware version: 2.15 (aka. v35).
 - [CH32X035]/CH32X033
 - [CH32L103]
 - [CH32H417]
+- [CH32V407]
+- [CH32V467]
 - [ ] [CH8571] - No other source about this chip, help wanted
 - ... (Feel free to open an issue if you have tested on other chips)
 
@@ -89,6 +91,8 @@ Current firmware version: 2.15 (aka. v35).
 [CH643]: https://www.wch-ic.com/products/CH643.html
 [CH8571]: https://www.wch.cn/news/606.html
 [CH32H417]: https://www.wch-ic.com/products/CH32H417.html
+[CH32V407]: https://www.wch.cn/products/CH32V407.html
+[CH32V467]: https://www.wch.cn/products/CH32V407.html
 
 ## Install
 
